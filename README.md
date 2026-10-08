@@ -67,7 +67,7 @@ Doctoral thesis project · Key Project, Hunan Provincial Graduate Research Innov
 
 - **2024–Present** · Ph.D. Candidate in Medical Genetics  
   Center for Medical Genetics & Xiangya Hospital, Central South University  
-  Selected for the Bachelor’s-to-Ph.D. Program for Top Innovative Talent.
+  direct-entry PhD program
 - **2020–2024** · B.Sc., Biological Sciences Honors Program  
   Central South University
 - **2017–2020** · High school education  

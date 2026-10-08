@@ -2,7 +2,7 @@
 
 **Quantitative Biology · Medical Genetics · Neuropsychiatric Genomics**
 
-[🌐 Homepage](https://mikegong1.github.io/) · [🎓 Google Scholar](https://scholar.google.com/citations?user=mOcgOIYAAAAJ&hl=en) · [中文主页](https://mikegong1.github.io/zh.html)
+[🌐 Homepage](https://mikegong1.github.io/) · [中文主页](https://mikegong1.github.io/zh.html) · [🎓 Google Scholar](https://scholar.google.com/citations?user=mOcgOIYAAAAJ&hl=en)
 
 ## 🧬 About Me
 
@@ -20,16 +20,16 @@ My research focuses on **tandem-repeat variation and the genetic architecture of
 
 ---
 
-## 📌 Research Experience
+## 📌 Research Experiences
 
-**Multi-omics investigation of tandem-repeat variation** · 2025–Present  
+**Multi-omics investigation of tandem-repeat variation** · **[2025–Present]**  
 Doctoral thesis project · Key Project, Hunan Provincial Graduate Research Innovation Program
 
 - Analyze family-based genomic and multi-omics data in neuropsychiatric disorder cohorts.
 - Integrate genetic and transcriptomic data to prioritize candidate loci, genes, and biological processes.
 - Develop reproducible workflows for large-scale sequencing and multi-omics analysis.
 
-**Disease-associated tandem repeats in neuropsychiatric disorders** · 2024–2025
+**Disease-associated tandem repeats in neuropsychiatric disorders** · **[2024–2025]**
 
 - Curated reported pathogenic and disease-associated repeat loci and analyzed their variation in family-based cohorts.
 - Performed repeat genotyping, quality control, locus-level inspection, and inheritance assessment across populations.
@@ -50,7 +50,7 @@ Doctoral thesis project · Key Project, Hunan Provincial Graduate Research Innov
   Hao Xiao, Xin Feng, Mengjun Liu, **Hanwen Gong**, Xiao Zhou  
   *Frontiers in Immunology* · 2023 · 14, 1143980
 
-[Full publication details](https://mikegong1.github.io/#publications) · [BibTeX](https://mikegong1.github.io/data/publications.bib)
+[BibTeX](https://mikegong1.github.io/data/publications.bib)
 
 ---
 

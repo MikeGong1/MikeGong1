@@ -70,6 +70,8 @@ Doctoral thesis project · Key Project, Hunan Provincial Graduate Research Innov
   Selected for the Bachelor’s-to-Ph.D. Program for Top Innovative Talent.
 - **2020–2024** · B.Sc., Biological Sciences Honors Program  
   Central South University
+- **2017–2020** · High school education  
+  Yali High School
 
 ---
 

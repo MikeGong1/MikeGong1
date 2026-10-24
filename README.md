@@ -2,7 +2,7 @@
 
 **Quantitative Biology · Medical Genetics · Neuropsychiatric Genomics**
 
-[🌐 Homepage](https://mikegong1.github.io/) · [中文主页](https://mikegong1.github.io/zh.html) · [🎓 Google Scholar](https://scholar.google.com/citations?user=mOcgOIYAAAAJ&hl=en)
+[Homepage](https://mikegong.codes/) · [中文主页](https://mikegong.codes/zh) · [Google Scholar](https://scholar.google.com/citations?user=mOcgOIYAAAAJ&hl=en)
 
 ## 🧬 About Me
 
@@ -50,7 +50,7 @@ Doctoral thesis project · Key Project, Hunan Provincial Graduate Research Innov
   Hao Xiao, Xin Feng, Mengjun Liu, **Hanwen Gong**, Xiao Zhou  
   *Frontiers in Immunology* · 2023 · 14, 1143980
 
-[BibTeX](https://mikegong1.github.io/data/publications.bib)
+[BibTeX](https://mikegong.codes/data/publications.bib)
 
 ---
 
@@ -79,5 +79,5 @@ Doctoral thesis project · Key Project, Hunan Provincial Graduate Research Innov
 
 - **Email:** mikegong[at]csu.edu.cn
 - **Location:** Changsha, Hunan, China
-- **Website:** [mikegong1.github.io](https://mikegong1.github.io/)
+- **Website:** [mikegong.codes](https://mikegong.codes/)
 - **Google Scholar:** [Hanwen Gong](https://scholar.google.com/citations?user=mOcgOIYAAAAJ&hl=en)

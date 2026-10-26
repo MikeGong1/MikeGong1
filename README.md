@@ -2,7 +2,7 @@
 
 **Quantitative Biology · Medical Genetics · Neuropsychiatric Genomics**
 
-[Homepage](https://mikegong.codes/) · [中文主页](https://mikegong.codes/zh) · [Google Scholar](https://scholar.google.com/citations?user=mOcgOIYAAAAJ&hl=en)
+[Homepage](https://mikegong.codes/) · [Google Scholar](https://scholar.google.com/citations?user=mOcgOIYAAAAJ&hl=en)
 
 ## 🧬 About Me
 
